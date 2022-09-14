@@ -1,4 +1,4 @@
-#Paritätsbit berechnen
+#Paritätsbit berechnen 1.1
 #C Nicode3141 2021: github.com/nicode3141
 
 #Funktionsweise:
